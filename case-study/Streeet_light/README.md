@@ -19,9 +19,8 @@
 
 2.	High level requirements
 
-    * 
-    * 
-    * 
+    * Infrared sensor must detect the sunlight.
+    * Turning on and off of the street lights(Loads).
  
  ## Component Description:
 
