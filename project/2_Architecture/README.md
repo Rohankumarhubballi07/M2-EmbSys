@@ -41,3 +41,6 @@
 
 * limit the amount of current going to certain components in the circuit, such as LEDs and integrated 
   circuits
+
+
+## Flow chart 
