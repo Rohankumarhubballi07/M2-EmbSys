@@ -44,4 +44,12 @@
 |  LL5  |Displaying the distance and angle on LCD|Technical |
 |  LL6  |Simulation of the components| Technical|
 
+## Applications 
+
+
+## SWOT Analysis
+
+## 4W's and 1H's
+
+
 
