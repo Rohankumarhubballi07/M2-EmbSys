@@ -9,8 +9,8 @@
 
  * Calaculating distance using ultrasonic sensor.
  * Controlling the servo motor angle.
- * Provides the motor angle.
- * Detects the obstacle range.
+ * Provides the motor angle and displaying it on LCD display.
+ * Detects the object range in all possible direction.
 
  ## State of art / Research
 
@@ -31,5 +31,17 @@
 |  HL2  |controlling the servo motor            | Technical |
 |  HL3  |Calculating the distance and range     | Technical |
 |  HL4  |Angle of the motor                     | Technical |
-|  HL5  |Displaying the distance and angle on LCD|TEchnical |
+|  HL5  |Displaying the distance and angle on LCD|Technical |
+
+## Low level Requirements
+
+|  Id   |               Description             |  Category |
+|-------|---------------------------------------|-----------|
+|  LL1  |Using the Arduino unit and LCD display | Technical |
+|  LL2  |sensor should sense the object in all possible directions| Technical |
+|  LL3  |Sending and recieving the ultrasonic waves| Technical |
+|  LL4  |possible angle calculation | Technical |
+|  LL5  |Displaying the distance and angle on LCD|Technical |
+|  LL6  |Simulation of the components| Technical|
+
 
