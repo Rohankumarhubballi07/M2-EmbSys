@@ -8,7 +8,14 @@
   ### 1.6. Low level requirements
   ### 1.7. Applications
   ### 1.8. SWOT analysis
-  ### 4.9. 4W's and 1H's
+  ### 1.9. 4W's and 1H's
+
+  ## 2_Architecture
+
+   ### 2.1 Behavioural_diagram
+   ### 2.2 structural_diagram
+   ### 2.3 coponents used
+   ### 2.4 Flow chart
 
  
 
