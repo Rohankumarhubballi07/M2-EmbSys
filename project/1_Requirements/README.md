@@ -19,6 +19,8 @@
 
 # Abstract
 
+* This embedded project uses the sensors and actuators as a part of component building. The ultrasonic 
+  sensors which are capable of the detecting the objects can be further improvised and may include in the designing of a smart parking system which is automated one. And the servo motor which can precisely used in controlling the motor angle must be in the range f the calculated distance.
 
 
 
