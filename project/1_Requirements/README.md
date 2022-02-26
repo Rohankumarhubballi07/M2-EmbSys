@@ -77,12 +77,25 @@
 
  ## 1. What
 
+ * It is a automated embedded system project to calculate the distance and motor angle.
+
  ## 2. When
+
+ * In the detection of the objects in automated smart parking and in the autopilot mode of car it can be 
+   used.
 
  ## 3. where
 
+ * Automation industries like car toy etc.
+ * smart parking.
+ * precautions in preventing accidents
+
  ## 4. Who
 
+ * It is mostly used when automation is required instead of the manual.
+
  ## 5. How
+
+  * Since sensor is known for the detecting the object and can caliberly say the distance of object.
 
 
