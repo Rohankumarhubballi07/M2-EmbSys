@@ -46,10 +46,29 @@
 
 ## Applications 
 
+ * 
 
 ## SWOT Analysis
+ 
+ # Strengths
+
+ # weakeness
+
+ # opportunities
+
+ # Threats 
 
 ## 4W's and 1H's
 
+
+ # 1. What
+
+ # 2. When
+
+ # 3. where
+
+ # 4. Who
+
+ # 5. How
 
 
