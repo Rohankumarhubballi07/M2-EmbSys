@@ -2,5 +2,5 @@
 
 ## Description
    
-   Controlling the servo motor angle and calculatind distance is a embbeded syatem used to control the servo motor which is basically a actuator by using the sensor component and other essentials components of circuital along with the microcontroller unit.
+   Controlling the servo motor angle and calculatind distance is a embbeded syatem used to control the servo motor which is basically a actuator by using the sensor component and other essentials components of circuital along with the microcontroller unit. And in addition with control unit it is also capable of the calacualting the distance or range of that obstacle.
 
