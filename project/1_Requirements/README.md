@@ -46,17 +46,31 @@
 
 # Applications 
 
- * 
+ * calculating the object distance.
+ * Servo motor is remote-controlled.
+ * Ultrasonic sensors can detect objects automatically.
+ * distance will be displayed on LCD. 
 
 # SWOT Analysis
  
  ## Strengths
+    
+ * Can detect the object easily.
+ * Accurate display of distance and motor angle.
+ * Can regulate the voltage.
 
  ## weakeness
 
+ * No buzzer or alaram after completing the detection and calculating distance.
+
  ## opportunities
 
+ * A usefull invention in automation detection of objects.
+ * use of sensors and actuators.
+
  ## Threats 
+
+ * Misprint of calculated distance.
 
 # 4W's and 1H's
 
