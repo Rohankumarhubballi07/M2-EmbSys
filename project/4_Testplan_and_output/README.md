@@ -7,3 +7,4 @@
 |---------|------------|--------------|--------------|------------|----------|
 |   01  |Detection of object by ultrasonis sensor|Sensor input| Detect the object| success|Technical|
 |   02  |Calculation of distance| Measurement of the distance| Displayed in LCD display| Success|Technical|
+|  03   | Measurment of servo motor angle| Angle of servo motor|Anglr displayed in LCD display|success|Technical|
