@@ -5,7 +5,7 @@
 
 | Test ID | Description| Expected I/P | Expected O/P | Actual O/P | Test type|
 |---------|------------|--------------|--------------|------------|----------|
-|   01  |Detection of object by ultrasonis sensor|Sensor input| Detect the object| success|Technical|
+|   01  |Detection of object by ultrasonic sensor|Sensor input| Detect the object| success |Technical|
 |   02  |Calculation of distance| Measurement of the distance| Displayed in LCD display| Success|Technical|
 |  03   | Measurment of servo motor angle| Angle of servo motor|Angle displayed in LCD display|success|Technical|
 |  04   | Activate the components by giving power supply| power input| components activated|Success|Technical
@@ -15,4 +15,6 @@
 
 | Test ID | Description| Expected I/P | Expected O/P | Actual O/P | Test type|
 |---------|------------|--------------|--------------|------------|----------|
-|   01    |
+|   01    |Working of ultrasonic sensor| Object in range| Detected| Success | Technical|
+|   02    | Servo motor angular movement| Object in range | Detected| Success|Technical|
+|   03    |Displaying message| LCD display| Distance and Angle| Successs| Technical|
