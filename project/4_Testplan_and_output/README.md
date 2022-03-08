@@ -20,4 +20,4 @@
 |   LL_2    | Servo motor angular movement| Object in range | Detected| Success|Technical|
 |   LL_3    |Displaying message| LCD display| Distance and Angle| Successs| Technical|
 |   LL_4    | Four direction should be sensed by ultrasonic sensor| Execution| Detection |Success|Technical|
-|   LL_5    | Calculation of sistance| Execution| Duration*0.034| Success|Technical|
+|   LL_5    | Calculation of Distance| Execution| Duration*0.034| Success|Technical|
