@@ -1,7 +1,7 @@
 
 ## Test plan
 
-### High level Test plan
+### High level Test plan.
 
 | Test ID | Description| Expected I/P | Expected O/P | Actual O/P | Test type|
 |---------|------------|--------------|--------------|------------|----------|
@@ -12,7 +12,7 @@
 |  HL_ 5  | Activate the components by giving power supply| power input| components activated|Success|Technical
 
 
-### Low level Test plan
+### Low level Test plan.
 
 | Test ID | Description| Expected I/P | Expected O/P | Actual O/P | Test type|
 |---------|------------|--------------|--------------|------------|----------|

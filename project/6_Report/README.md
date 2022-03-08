@@ -113,7 +113,7 @@
 
 ## components 
 
-## 1. Arduino UNO
+## 1. Arduino UNO Unit
 
 * Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino 
   boards are able to read inputs - light on a sensor and turn it into an output - activating a motor, turning display.

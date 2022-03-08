@@ -41,7 +41,7 @@
   
   void time_Measurement()
   { //function to measure the time taken by the pulse to return back
-    digitalWrite(trig, LOW);
+    digitalWrite(trig, LOW);   //trig pin
     delayMicroseconds(2);
   
     digitalWrite(trig, HIGH);

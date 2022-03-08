@@ -53,7 +53,7 @@
  * Ultrasonic sensors can detect objects automatically.
  * distance will be displayed on LCD. 
 
-# SWOT Analysis
+# SWOT Analysis.
  
  ## Strengths
     
