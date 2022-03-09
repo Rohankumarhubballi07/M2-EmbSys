@@ -35,3 +35,5 @@
  
 
 ## Block Diagram 
+
+![Behavioural_diagram_street_light](https://user-images.githubusercontent.com/82749120/157365075-77064488-10ce-43a4-b216-a52956162681.png)
