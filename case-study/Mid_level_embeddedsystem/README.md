@@ -50,5 +50,6 @@
  
 
 ## Block Diagram 
+![Block_diagram](https://user-images.githubusercontent.com/82749120/157364978-f897171b-4c23-4a74-970c-c86d7e57afda.png)
 
    
